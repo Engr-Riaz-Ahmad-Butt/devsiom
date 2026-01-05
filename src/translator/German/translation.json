@@ -1,0 +1,218 @@
+{
+  "home": "Startseite",
+  "about_us": "Über uns",
+  "services": "Dienstleistungen",
+  "portfolio": "Portfolio",
+  "industries": "Branchen",
+  "contact_us": "Kontaktieren Sie uns",
+  "select_language": "Sprache auswählen",
+  "about_us_tagline": "Verwirklicht Ideen mit modernen Technologien",
+  "about_us_description": "Devsiom Technologies ist ein IT-Beratungs- und Managementdienstleister. Es wurde 2015 gegründet und arbeitet seitdem daran, seinen Kunden hochwertige IT- und Netzwerklösungen zu bieten. Devsiom Technologies ist ein führendes Unternehmen für maßgeschneiderte Softwareentwicklung und digitaler Partner, der globalen Unternehmen und Startups hochwertige Softwareentwicklungsdienste und -lösungen bietet. Unsere Softwaredienstleistungen umfassen den gesamten Entwicklungszyklus, von der Ideenfindung über die Lieferung bis hin zu Sicherheit und Wartung. Ob es darum geht, eine laufende Plattform anzupassen, Prototypanwendungen zu entwickeln oder komplexe Technologie-Lösungen für Unternehmen zu implementieren, unser weltweit verteiltes Team von Experten für maßgeschneiderte Softwareentwicklung ist in der Lage, schnelle und fehlerfreie Lösungen zu liefern.",
+  "carousel_1_title": "Revolutionieren Sie Ihre Arbeitsweise mit unseren IT-Lösungen",
+  "carousel_1_description": "Von der Softwareentwicklung bis zur Datensicherheit - wir haben das Know-how, um Ihrem Unternehmen zum Erfolg zu verhelfen. Unsere IT-Lösungen sind auf Ihre individuellen Bedürfnisse zugeschnitten und sollen Ihre Abläufe optimieren.",
+  "carousel_2_title": "Maximieren Sie Ihre Effizienz mit unseren modernsten mobilen Lösungen",
+  "carousel_2_description": "Bei der Entwicklung mobiler Apps gibt es mehrere wichtige Faktoren zu berücksichtigen. Der erste ist die Wahl der richtigen Plattform, da diese einen erheblichen Einfluss auf die Benutzerbasis und die Funktionalität der App hat.",
+  "carousel_3_title": "Stärken Sie Ihr Geschäft mit unseren erstklassigen Weblösungen",
+  "carousel_3_description": "Unser Expertenteam ist bestrebt, erstklassigen Support für alle unsere IT-Lösungen zu bieten. Von der Implementierung bis zur laufenden Wartung - wir sind für Sie da.",
+  "our_clients": "Unsere geschätzten Kunden",
+  "get_in_touch": "Kontaktieren Sie uns für weitere Informationen",
+  "help_questions": "Wenn Sie Hilfe benötigen oder Fragen haben, sind wir für Sie da",
+  "email_us": "E-Mail an uns",
+  "call_us": "Rufen Sie uns an",
+  "visit_us": "Besuchen Sie uns",
+  "here_to_help": "Wir sind hier, um zu helfen",
+  "reach_us_at": "Erreichen Sie uns unter",
+  "office_address": "Unsere Büroadresse",
+  "contact_us_form_title": "Lassen Sie uns sehen, wie wir Ihnen helfen können!",
+  "contact_us_form_subtitle": "Haben Sie Fragen? Wir sind hier, um zu helfen.",
+  "form_label_name": "Name",
+  "form_label_subject": "Betreff",
+  "form_label_email": "E-Mail",
+  "form_label_message": "Nachricht",
+  "form_button_submit": "Nachricht senden",
+  "footer_heading": "Entdecken Sie die ideale Lösung mit unseren maßgeschneiderten Lösungen!",
+  "follow_us": "Folgen Sie uns auf",
+  "android_app_development": "Android App Entwicklung",
+  "ios_app_development": "iOS App Entwicklung",
+  "cross_platform_development": "Plattformübergreifende Entwicklung",
+  "website_development": "Webseitenentwicklung",
+  "ui_ux_designing": "UI/UX Gestaltung",
+  "code_build_reviews": "Code & Build Überprüfungen",
+  "interactive_prototype": "Interaktiver Prototyp",
+  "quick_links": "Schnelle Links",
+  "services_link": "Dienstleistungen",
+  "contact_phone": "+92 345 5118496",
+  "contact_address": "Straße Nr. 24 USA Liberty City",
+  "contact_website": "www.devsiomtechnologies.com",
+  "copyright_text": "© Urheberrecht 2024",
+  "industries_we_serve": "Branchen, die wir bedienen",
+  "retail_ecommerce": "Einzelhandel, E-Commerce",
+  "social_networking": "Soziale Netzwerke",
+  "education_elearning": "Bildung & E-Learning",
+  "real_estate": "Immobilien",
+  "healthcare_fitness": "Gesundheit & Fitness",
+  "food_restaurant": "Essen & Restaurant",
+  "logistics_distribution": "Logistik & Vertrieb",
+  "travel_hospitality": "Reisen & Gastgewerbe",
+  "mobile_applications": "Mobile Anwendungen",
+  "gold_metal_detector_title": "Gold Metalldetektor Finder",
+  "gold_metal_detector_subtitle": "Metalldetektor & Golddetektor-App für Android",
+  "gold_metal_detector_description": "Verfolgen Sie Metalldetektor- und Golddetektor-Apps zu Propangasdetektoren, um Metallobjekte zu erkennen. Diese kostenlose Golddetektor- und Goldtester-Anwendung ist Ihr ultimatives Werkzeug zum Auffinden versteckter Goldschätze, Goldtester und Edelmetalle.",
+
+  "smart_tv_remote_title": "Smart TV Fernbedienung",
+  "smart_tv_remote_subtitle": "Smart TV Fernbedienung",
+  "smart_tv_remote_description": "Die beste Begleiter-Fernbedienungs-App, um das Fernsehen angenehmer zu gestalten. Sie können Ihren Fernseher ganz einfach und effizient bedienen, indem Sie Ihr Smartphone in eine effiziente TV-Fernbedienung verwandeln.",
+
+  "charging_animation_title": "Ladeanimation",
+  "charging_animation_subtitle": "Ladebildschirm-App",
+  "charging_animation_description": "Verbessern Sie die Ästhetik Ihres Android-Geräts mit unseren faszinierenden 3D-Hintergrundbildern und Farbthemen für den Ladevorgang.",
+
+  "personal_diary_app_title": "Persönliches Tagebuch",
+  "personal_diary_app_subtitle": "Tägliches Tagebuch mit Passwortschutz",
+  "personal_diary_app_description": "Das Lock Diary Book ist eine passwortgeschützte Tagebuch-App, mit der Sie Ihre Gefühle und Ideen aufschreiben können!",
+
+  "web_applications": "Webanwendungen",
+  "creative_garage_title": "Creative Garage",
+  "creative_garage_subtitle": "Die ultimative Multi-Purpose-Anwendung für häufige IT-Profis",
+  "creative_garage_description": "Wir hatten das Privileg, eine dynamische und visuell ansprechende Website für Creative Garage Pvt Ltd zu entwickeln, einen führenden Anbieter von Informationstechnologielösungen. Unsere Kreation bietet eine umfassende Startseite mit beeindruckenden Übergängen, einen aufschlussreichen Abschnitt über uns, einen umfassenden Überblick über ihre Dienstleistungen, eine interaktive Kontaktseite und ein visuell beeindruckendes Portfolio. Diese Website hebt die Expertise von Creative Garage in MIS-Systemen, ERP-Lösungen, der Entwicklung mobiler Anwendungen, Dokumentensicherheit, UI/UX-Design und der Immobilienprojektberatung hervor. Alle werden durch eine reibungslose Navigation und beeindruckende visuelle Effekte präsentiert und zeigen unsere Fähigkeit, modernste Weblösungen zu liefern.",
+
+  "instarep_title": "InstaRep",
+  "instarep_subtitle": "Ihre All-in-One-Lösung für professionelle Marketingdienste",
+  "instarep_description": "Erstellt mit React, ermöglicht diese App Benutzern den Zugang zu und die Verwaltung von erstklassigen Marketingdiensten, um ihre Geschäftspräsenz zu stärken. Mit InstaRep können Benutzer mühelos Marketingkampagnen erstellen, verfolgen und optimieren, um ihre Reichweite und Wirkung durch die Einstellung hochqualifizierter Marketingexperten zu maximieren.",
+
+  "fast_ids_title": "Fast IDs",
+  "fast_ids_subtitle": "Das ultimative Werkzeug für die Erstellung von Mehrzweckdokumenten",
+  "fast_ids_description": "Fast IDs ist das ultimative Werkzeug zur einfachen und effizienten Erstellung von Mehrzweck-Dokumenten. Egal, ob Sie Vorlagen für Ausweise, Zertifikate oder andere offiziell aussehende Dokumente benötigen, Fast IDs hat alles. Diese Web-App wurde mit modernsten Technologien wie React.js, Three.js, JavaScript, Python, Django und MySQL entwickelt.",
+
+  "pranzo_title": "Pranzo",
+  "pranzo_subtitle": "Restaurants und Kunden gleichermaßen stärken",
+  "pranzo_description": "Eine ultimative Multi-Vendor-Food-Ordering-Plattform. Restaurants können sich ganz einfach registrieren und ihre Menüs präsentieren, während die Kunden ein nahtloses Bestellerlebnis mit Multi-Empfänger-Lieferoptionen genießen. Pranzo wurde mit dem robusten MERN-Stack erstellt und sorgt für Zuverlässigkeit, Skalierbarkeit und ein vielfältiges kulinarisches Erlebnis. Vom Durchsuchen vielfältiger Menüs bis hin zur Echtzeitverfolgung Ihrer Lieferung bietet es alle Funktionen, die Sie von einer erstklassigen Food-App erwarten. Genießen Sie eine große Auswahl an Küchen und einen hervorragenden Kundenservice, alles auf einer praktischen Plattform.",
+
+  "logo_designs": "Logodesigns",
+  "startup_logo_title": "Startup-Logo",
+  "startup_logo_subtitle": "Modernes und minimalistisches Logo",
+  "startup_logo_description": "Ein modernes und minimalistisches Logo für ein Startup in der Technologiebranche entworfen.",
+
+  "ecommerce_logo_title": "E-Commerce-Logo",
+  "ecommerce_logo_subtitle": "E-Commerce-Geschäftslogo",
+  "ecommerce_logo_description": "Ein Logo für eine E-Commerce-Marke entworfen, das die Werte und die Mission des Unternehmens widerspiegelt.",
+
+  "corporate_logo_title": "Unternehmenslogo",
+  "corporate_logo_subtitle": "Professionelles Unternehmenslogo",
+  "corporate_logo_description": "Ein professionelles Logo für einen Unternehmenskunden im Finanzsektor erstellt.",
+  "devsiom_title": "Devsiom",
+  "contact_message": "Lassen Sie uns kommunizieren und Ihre Träume in die Realität umsetzen!",
+  "contact_button": "Kontakt aufnehmen",
+
+  "portfolio_title": "Unser fein gearbeitetes Portfolio",
+  "portfolio_description": "In all diesen Arbeitsjahren haben wir mehr als 100 Kunden mit unseren Dienstleistungen und unserer Expertise bedient. Alle diese Projekte, die wir erstellt haben, sind unten aufgeführt.",
+  "view_case_study": "Fallstudie anzeigen",
+
+  "process_we_follow_title": "Prozess, den wir befolgen",
+  "process_we_follow_description": "Wir sind ein Team von selbstmotivierten Enthusiasten, die entschlossen sind, Ihnen die Leichtigkeit und Zuverlässigkeit in Ihrem Geschäft zu bieten, die Sie unserer Meinung nach verdienen, indem wir Ihnen und Ihren Nutzern das bestmögliche Erlebnis mit laufenden Web- und Mobilanwendungen bieten.",
+  "learn_more": "Erfahren Sie mehr",
+  "quality_assurance": "Qualitätssicherung",
+  "quality_assurance_description": "Umfassende Testphase zur Sicherstellung der Produktqualität und -leistung.",
+  "deployment": "Einsatz",
+  "deployment_description": "Reibungslose Bereitstellung des finalisierten Produkts für die Nutzer.",
+  "maintenance": "Wartung",
+  "maintenance_description": "Laufende Wartung und Unterstützung zur Sicherstellung der Langlebigkeit des Produkts.",
+  "requirements": "Anforderungen",
+  "requirements_description": "Wir folgen der ersten und wichtigsten Priorität, Anforderungen, Ressourcen und Informationen zu sammeln, um unser Projekt zu starten.",
+  "ui_ux_design": "UI/UX Design",
+  "ui_ux_design_description": "Wir erstellen fesselnde und charmante Designs mit den neuesten Design-Tools, um das beste benutzerfreundliche Erlebnis zu bieten.",
+  "prototype": "Prototyp",
+  "prototype_description": "Nach dem Entwurf erhalten Sie Ihren Prototyp, der dann für den Entwicklungsprozess des Produkts weitergeleitet wird.",
+  "development": "Entwicklung",
+  "development_description": "Die Entwicklung der mobilen Anwendung/Web/Blockchain begann mit den neuesten Tools und Technologien mit Transparenz.",
+
+  "our_latest_products": "Unsere neuesten Produkte",
+  "products_subheading": "Wir schaffen einzigartige digitale Erlebnisse. Mit mehr als zehn Jahren Wissen und Erfahrung entwerfen und programmieren wir saubere Websites!",
+  "gold_metal_detector": "Goldmetall-Detektor",
+
+  "gold_metal_detector_details": "Verfolgen Sie Metallfinder & Gold-Detektor-App, um Propangasdetektor zu Metallobjekten zu erkennen. Diese kostenlose Goldmetall-Detektor- & Goldtester-Anwendung ist Ihr ultimatives Werkzeug, um versteckte Goldschätze, Goldtester & Edelmetalle aufzudecken.",
+  "my_diary": "Mein Tagebuch",
+  "my_diary_description": "Tagebuch mit Passwortschutz",
+  "my_diary_details": "Tagebuch-Online-Journal & Reisejournal ist eine sichere, passwortgeschützte Schreibjournal-App, die es Benutzern ermöglicht, ihre Gedanken und Gefühle täglich festzuhalten und zu erkunden! Diese Stimmungsverfolgungs-Tagebuch-Notizen-App ist kostenlos verfügbar.",
+  "smart_tv_remote": "Smart TV-Fernbedienung",
+  
+  "smart_tv_remote_details": "Die beste Begleiter-Fernbedienungs-App, um das Fernsehen noch angenehmer zu gestalten. Der Benutzer kann seinen Fernseher einfach und effizient bedienen, indem er sein Smartphone in eine effiziente TV-Fernbedienung verwandelt.",
+
+  "carousel_header": "Was unsere Kunden sagen",
+  "review_1_title": "Was für ein freundliches und nettes Team!",
+  "review_1_content": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur...",
+  "review_1_author": "Tangchiwing",
+  "review_1_location": "Hongkong",
+  
+  "review_2_title": "Maximieren Sie Ihre Effizienz",
+  "review_2_content": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur...",
+  "review_2_author": "Tangchiwing",
+  "review_2_location": "Hongkong",
+  
+  "review_3_title": "Stärken Sie Ihr Geschäft",
+  "review_3_content": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur...",
+  "review_3_author": "Tangchiwing",
+  "review_3_location": "Hongkong",
+  
+  "previous": "Zurück",
+  "next": "Weiter",
+  "stats": {
+    "apps_developed": "Apps Entwickelt",
+    "websites_designed": "Websites Gestaltet",
+    "happy_clients": "Zufriedene Kunden",
+    "ai_iot_solutions": "KI- und IoT-Lösungen"
+  },
+  "tech_and_business": {
+    "heading": "Technologie & Geschäft",
+    "paragraph": "Angetrieben von einem Engagement für Innovation nutzt unser Softwareunternehmen ein vielfältiges und dynamisches Technologie-Stack, das führende Technologien kombiniert, um Lösungen zu entwickeln, die Branchenstandards neu definieren und die Erwartungen übertreffen."
+  },
+  "transformation": {
+    "heading": "Ihre Transformation beginnt hier...",
+    "agile_teams": {
+      "title": "Agile Teams",
+      "description": "Erweitern Sie Ihre agilen Entwicklungsteams mit einem leistungsstarken Partner. Wir helfen Ihnen, Ihre digitale Reise durch schnellere Softwarebereitstellung zu beschleunigen, um der Konkurrenz einen Schritt voraus zu sein."
+    },
+    "digitalization": {
+      "title": "Digitalisierung",
+      "description": "Automatisieren Sie manuelle Geschäftsprozesse und optimieren Sie das Kundenerlebnis für mehr Effizienz und Engagement."
+    },
+    "innovation": {
+      "title": "Innovation",
+      "description": "Wir entwerfen transformative digitale Produkte und Erlebnisse, die echten Geschäftswert und Kundenwirkung erzielen."
+    }
+  }, 
+  "whatWeDo": {
+    "header": "Was wir tun",
+    "description": "Wir haben einen verfeinerten Prozess, nachdem wir ein Projekt übernommen haben. Wir bieten die Plattform, von der aus die Projekte durch Phasen der Planung, des Testens und der Ausführung Gestalt annehmen. Unsere spezialisierten Dienstleistungen umfassen auch:",
+    "androidDevelopment": {
+      "title": "ANDROID APP-ENTWICKLUNG",
+      "description": "Verwandeln Sie Ihre innovativen Android-App-Ideen in die Realität, die Ihr Geschäft ankurbelt."
+    },
+    "iosDevelopment": {
+      "title": "IOS APP-ENTWICKLUNG",
+      "description": "Erleben Sie qualitativ hochwertige Arbeit von Fachleuten, um Codes für iOS zu entwickeln, zu schreiben und zu debuggen."
+    },
+    "crossPlatform": {
+      "title": "PLATTFORMÜBERGREIFENDE APP-ENTWICKLUNG",
+      "description": "Nutzen Sie unsere Expertise in plattformübergreifenden App-Entwicklungsprojekten."
+    },
+    "wordpressDevelopment": {
+      "title": "WORDPRESS-ENTWICKLUNG",
+      "description": "Wir bieten Ihnen benutzerfreundliches UI/UX-Design, um die Benutzererfahrung auf digitalen Produkten zu erleichtern."
+    },
+    "uiuxDesign": {
+      "title": "UI/UX-DESIGN",
+      "description": "Lassen Sie Ihre WordPress-Projekte schnell und effizient erstellen und anpassen."
+    }
+  },
+  
+  "whoWeWorkWith": {
+    "header": "Mit wem wir arbeiten",
+    "description": "Devsiom Technologies ist ein führendes Unternehmen für kundenspezifische Softwareentwicklung und digitaler Partner, der globalen Unternehmen und Startups hochwertige Softwareentwicklungsdienste und -lösungen bietet.",
+    "startUp": "Start-up Unternehmen",
+    "smallBusiness": "Kleine & mittlere Unternehmen",
+    "enterprise": "Unternehmen",
+    "agencies": "Agenturen"
+  }
+
+}

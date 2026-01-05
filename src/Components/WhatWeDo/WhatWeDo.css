@@ -1,0 +1,171 @@
+.what-we-do-container {
+  margin-top: 80px;
+  margin-bottom: 20px;
+}
+
+.what-we-do-header {
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-family: "Raleway";
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 27px;
+  text-align: justify;
+}
+
+.what-we-do-description {
+  margin-bottom: 40px;
+  font-family: "Raleway";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: center;
+  color: #000000cc;
+  text-transform: uppercase;
+}
+
+.font-weight-bold {
+  font-weight: 700;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+/* Card Styles */
+
+.card {
+  border-radius: 23.8579px 0px;
+  box-shadow: 0.954315px 0.954315px 4.77157px rgba(0, 0, 0, 0.15);
+}
+
+.service-icon {
+  width: 80px;
+  height: 80px;
+  margin: 20px auto;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-title {
+  font-size: 16px;
+  line-height: 27px;
+}
+
+.card-text {
+  font-size: 14px;
+  line-height: 21px;
+  color: rgba(0, 0, 0, 0.8);
+}
+.what-we-do-img-border {
+  border: 2px solid #03254b;
+  width: 146.25px;
+  height: 141px;
+  padding: 31px 33.25px 30px 33px;
+  border-radius: 23.86px 0px 23.86px 0px;
+  border: 2px 0px 0px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  box-shadow: 0.95px 0.95px 4.77px 0px #00000026;
+}
+.service-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.service-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.service-heading {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: "Raleway";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 27px;
+  text-align: center;
+}
+
+.service-description {
+  font-size: 0.9em;
+  font-family: "Raleway";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: center;
+  color: #000000cc;
+}
+
+
+/* Medium screens (tablets) */
+@media (max-width: 768px) {
+  .what-we-do-header {
+    font-size: 24px;
+  }
+
+  .what-we-do-description {
+    font-size: 14px;
+    margin-bottom: 30px;
+  }
+
+  .service-icon {
+    width: 60px;
+    height: 60px;
+  }
+
+  .service-heading {
+    font-size: 14px;
+  }
+
+  .service-description {
+    font-size: 12px;
+  }
+
+  .service-item {
+    margin-bottom: 15px;
+  }
+}
+
+/* Small screens (mobile phones) */
+@media (max-width: 576px) {
+  .what-we-do-container {
+    margin-top: 40px;
+    margin-bottom: 10px;
+  }
+
+  .what-we-do-header {
+    font-size: 20px;
+  }
+
+  .what-we-do-description {
+    font-size: 12px;
+    margin-bottom: 20px;
+  }
+
+  .service-icon {
+    width: 50px;
+    height: 50px;
+  }
+
+  .service-heading {
+    font-size: 12px;
+  }
+
+  .service-description {
+    font-size: 10px;
+  }
+
+  .service-item {
+    margin-bottom: 10px;
+  }
+}

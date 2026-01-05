@@ -1,0 +1,176 @@
+.banner {
+  width: 100%;
+  height: auto;
+  background: linear-gradient(90.16deg, #03254b 0.13%, #0f72b5 99.85%);
+  position: relative;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* Content section styling */
+.content {
+  width: auto;
+  height: auto;
+  position: static;
+  /* top: 142px;
+    left: 572px; */
+}
+
+/* Main heading styling */
+.main-heading {
+  width: 100%;
+  font-family: "Raleway", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  text-align: center;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+/* Heading text styling */
+.heading-text h1 {
+  width: 100%;
+  /* height: 109px; */
+  font-family: "Raleway", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  /* line-height: 63px; */
+  text-align: center;
+  color: #ffffff;
+  /* margin-top: 20px; */
+  /* position: absolute;
+    top: 223px;
+    left: 488px; */
+}
+
+/* Subheading styling */
+.subheading {
+  width: 100%;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: left;
+  color: #ffffff;
+  margin-top: 20px;
+}
+
+/* Cards container styling */
+.cards-container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+/* Card styling */
+.contact-card {
+  width: 100%;
+  max-width: 365px;
+  height: auto;
+  border-radius: 8px;
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px;
+  box-sizing: border-box;
+  background: #f2f2f2;
+}
+
+/* Card specific styles */
+.card-1 {
+  background: #f2f2f2;
+}
+.card-2 {
+  background: #fa7226 !important;
+}
+.card-3 {
+  background: #f2f2f2;
+}
+
+/* Icon styling */
+.icon {
+  width: 40px;
+  height: 40px;
+  background: #dce4e9;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Heading styling inside cards */
+.heading {
+  font-family: "Raleway", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0;
+}
+
+/* Subheading text styling inside cards */
+.subheading-text {
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  /* top: 200px; */
+}
+
+/* Bottom icon styling */
+.bottom-icon {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+}
+
+/* Responsive styling */
+@media (max-width: 768px) {
+  .main-heading,
+  .heading-text h1,
+  .subheading {
+    font-size: 36px;
+  }
+  .main-heading {
+    margin-top: 10px;
+  }
+  .contact-card {
+    width: 100%;
+    max-width: 100%; /* Ensure cards use full width on small screens */
+  }
+  .bottom-icon {
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+  }
+  .cards-container {
+    gap: 20px;
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  .main-heading,
+  .heading-text h1,
+  .subheading {
+    font-size: 28px;
+  }
+  .main-heading {
+    margin-top: 10px;
+  }
+  .bottom-icon {
+    width: 100%;
+    height: 30px;
+    margin-top: 20px;
+  }
+  .cards-container {
+    gap: 20px;
+    margin-top: 30px;
+  }
+}

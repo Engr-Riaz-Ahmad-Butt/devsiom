@@ -1,0 +1,205 @@
+/* Wrapper for positioning */
+.carouselWrapper {
+    margin-top: 80px;
+    padding: 40px 20px;
+  }
+
+/* Carousel Header */
+.carouselHeader {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.carouselHeader h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  color: #03254B;
+  line-height: 42px;
+}
+
+  /* Carousel container */
+  .carouselContainer {
+    position: relative;
+    width: 100%;
+    margin-top: 80px;
+    min-height: 480px;
+    border-radius: 20px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, rgba(3, 37, 75, 0.02), rgba(15, 114, 181, 0.02));
+    padding-bottom: 80px;
+  }
+  
+  /* Box with border and content */
+  .carouselBox {
+    position: relative;
+    width: 100%;
+    max-width: 1062px;
+    height: auto;
+    border-radius: 20px;
+    border: 3px solid #FA7226;
+    box-sizing: border-box;
+    overflow: hidden;
+    background: #ffffff;
+  }
+  
+  /* Carousel content styles */
+  .carouselContent {
+    position: relative;
+    width: 100%;
+    max-width: 968px;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+    padding: 60px 40px;
+    min-height: 400px;
+  }
+  
+  /* Heading style */
+  .carouselContent h3 {
+    width: 100%;
+    max-width: 600px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 35px;
+    text-align: center;
+    color: #03254B;
+    margin-bottom: 20px;
+  }
+
+  .carouselContent p {
+    color: #333333;
+    margin-bottom: 12px;
+  }
+
+  .carouselContent h1 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #03254B;
+    margin: 20px 0 8px 0;
+  }
+  
+  /* Centered image styles */
+  .centeredImage {
+    position: absolute;
+    width: 100%; /* Full width */
+    max-width: 209px; /* Max width */
+    height: auto; /* Auto height */
+    border-radius: 8px;
+    box-shadow: 0.95px 0.95px 4.77px 0px #00000026;
+    z-index: 2; /* Ensure image is above content */
+  }
+  
+  .centeredImage img {
+    width: 100%;
+    height: auto; /* Auto height */
+    object-fit: cover;
+  }
+  
+  /* Bottom buttons styling */
+  .bottom-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    position: absolute;
+    bottom: -70px;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  
+  .carousel-btn {
+    min-width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid #FA7226;
+    background-color: #ffffff;
+    color: #FA7226;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    outline: none;
+    transition: all 300ms ease;
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  .carousel-btn:hover,
+  .carousel-btn.active {
+    background-color: #FA7226;
+    color: #ffffff;
+  }
+  
+
+
+/* Tablets */
+@media (max-width: 992px) {
+  .carouselContainer {
+    margin-top: 40px; /* Adjust top margin for tablets */
+    padding: 0 20px; /* Add horizontal padding */
+  }
+
+  .carouselBox {
+    border-radius: 50px 0 50px 0; /* Adjust border-radius */
+  }
+
+  .carouselContent {
+    padding: 30px; /* Adjust padding */
+  }
+
+  .carouselContent h3 {
+    font-size: 20px; /* Adjust font size */
+    max-width: 500px; /* Adjust max-width */
+  }
+
+  .centeredImage {
+    max-width: 150px; /* Adjust max-width for tablets */
+  }
+}
+
+/* Mobile Phones */
+@media (max-width: 576px) {
+  .carouselWrapper {
+    margin-top: 20px; /* Reduce top margin for mobile */
+  }
+
+  .carouselContainer {
+    margin-top: 20px; /* Reduce top margin */
+    border-radius: 0; /* Remove border-radius */
+    box-shadow: none; /* Remove box-shadow */
+    padding: 0; /* Remove padding */
+  }
+
+  .carouselBox {
+    border: none; /* Remove border */
+    border-radius: 0; /* Remove border-radius */
+  }
+
+  .carouselContent {
+    padding: 20px; /* Adjust padding for mobile */
+  }
+
+  .carouselContent h3 {
+    font-size: 18px; /* Adjust font size */
+    max-width: 100%; /* Full width */
+  }
+
+  .centeredImage {
+    max-width: 100px; /* Adjust max-width for mobile */
+  }
+
+  .bottom-buttons {
+    padding: 10px; /* Adjust padding for mobile */
+  }
+}

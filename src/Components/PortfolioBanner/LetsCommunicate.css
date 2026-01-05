@@ -1,0 +1,181 @@
+.contact-section {
+  position: relative;
+  width: 100%;
+  height: 382px;
+  background: #03254b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  margin-bottom: 200px;
+}
+
+.background-frame {
+  position: absolute;
+  width: 100%;
+  max-width: 1442px;
+  height: 100%;
+  background: #03254b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.devsiom-title {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 350px;
+  line-height: 1;
+  text-align: center;
+  border: 3px solid rgba(0, 50, 105, 0.9);
+  color: transparent;
+  -webkit-text-stroke: 3px rgba(0, 50, 105, 0.9);
+  position: absolute;
+  top: 0;
+}
+
+.contact-message {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 70px;
+  position: relative;
+  z-index: 1;
+  max-width: 90%;
+}
+
+.contact-button {
+  width: 157px;
+  height: 47px;
+  background: #fa7226;
+  border-radius: 8px;
+  border: none;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.contact-button:hover {
+  background: #e66b20;
+}
+
+/* Responsive styling */
+@media (max-width: 1200px) {
+  .devsiom-title {
+    font-size: 280px;
+    top: 0;
+  }
+
+  .contact-message {
+    font-size: 35px;
+    line-height: 42px;
+  }
+  .contact-section {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 992px) {
+  .devsiom-title {
+    font-size: 220px;
+  }
+
+  .contact-message {
+    font-size: 30px;
+    line-height: 36px;
+  }
+
+  .contact-button {
+    width: 140px;
+    height: 45px;
+    font-size: 15px;
+  }
+  .contact-section {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .contact-section {
+    height: 300px;
+  }
+
+  .devsiom-title {
+    font-size: 160px;
+  }
+
+  .contact-message {
+    font-size: 28px;
+    line-height: 34px;
+  }
+
+  .contact-button {
+    width: 130px;
+    height: 43px;
+    font-size: 14px;
+  }
+  .contact-section {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 576px) {
+  .contact-section {
+    height: 250px;
+  }
+
+  .devsiom-title {
+    font-size: 120px;
+  }
+
+  .contact-message {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .contact-button {
+    width: 120px;
+    height: 40px;
+    font-size: 14px;
+  }
+  .contact-section {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-section {
+    height: 220px;
+  }
+
+  .devsiom-title {
+    font-size: 100px;
+  }
+
+  .contact-message {
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 20px;
+  }
+
+  .contact-button {
+    width: 110px;
+    height: 38px;
+    font-size: 12px;
+  }
+  .contact-section {
+    margin-bottom: 20px;
+  }
+}

@@ -1,0 +1,125 @@
+.techAndBusinessContainer {
+  margin-top: 80px;
+}
+
+.heading-text {
+  font-family: "Raleway";
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 35.22px;
+  color: #000000;
+}
+
+.paragraph {
+  font-family: "Raleway";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.78px;
+  text-align: center;
+  color: #000000;
+  width: 965px;
+  height: 38px;
+  left: 240px;
+margin: auto;
+}
+
+.icon-ball {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.icon-img {
+  max-width: 50px;
+  max-height: 50px;
+  object-fit: cover;
+  position: absolute;
+}
+.flex-end-class{
+  justify-content: flex-end;
+}
+.flex-start-class{
+  justify-content: start;
+}
+
+
+/* Responsive Styles */
+
+/* Medium screens (tablets) */
+@media (max-width: 768px) {
+  .heading-text {
+    font-size: 24px;
+  }
+
+  .paragraph {
+    font-size: 14px;
+    width: 90%;
+    margin: auto;
+  }
+
+  .icon-ball {
+    width: 80px;
+    height: 80px;
+  }
+
+  .icon-img {
+    max-width: 40px;
+    max-height: 40px;
+  }
+
+  .row {
+    margin-bottom: 20px;
+  }
+  .flex-end-class{
+    justify-content: center;
+    padding: 10px;
+  }
+  .flex-start-class{
+    justify-content: center;
+    padding: 10px;
+  }
+  
+}
+
+/* Small screens (mobile phones) */
+@media (max-width: 576px) {
+  .techAndBusinessContainer {
+    margin-top: 40px;
+  }
+
+  .heading-text {
+    font-size: 20px;
+  }
+
+  .paragraph {
+    font-size: 12px;
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  .icon-ball {
+    width: 60px;
+    height: 60px;
+  }
+
+  .icon-img {
+    max-width: 30px;
+    max-height: 30px;
+  }
+
+  .row {
+    margin-bottom: 15px;
+  }
+  .flex-end-class{
+    justify-content: center;
+    padding: 10px;
+  }
+  .flex-start-class{
+    justify-content: center;
+    padding: 10px;
+  }
+}

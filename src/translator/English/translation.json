@@ -1,0 +1,223 @@
+{
+  "home": "Home",
+  "about_us": "About Us",
+  "services": "Services",
+  "portfolio": "Portfolio",
+  "industries": "Industries",
+  "contact_us": "Contact Us",
+  "select_language": "Select Language",
+  "about_us_tagline": "Brings ideas to life, leveraging modern technologies",
+  "about_us_description": "Devsiom Technologies is an IT consultant and management supplier bureau. It was established in 2015 and has been working since to provide supreme quality IT and Network solutions to its consumers. Devsiom Technologies is a leading custom software development company and digital partner, providing global enterprises and startups with high-quality software development services & solutions. Our software services encompass the full cycle of software development, from ideation to delivery to security and maintenance. Whether it’s about customizing a running platform, developing prototype applications, or building and implementing complex technology solutions for enterprises, our globally distributed team of custom software development experts are equipped to deliver rapid and foolproof solutions.",
+  "carousel_1_title": "Revolutionize The Way You Work With Our IT Solutions",
+  "carousel_1_description": "From software development to data security, we have the expertise to help your business thrive. Our IT solutions are customized to meet your unique needs and are designed to streamline your operations.",
+  "carousel_2_title": "Maximize Your Efficiency With Our Cutting-Edge Mobile Solutions",
+  "carousel_2_description": "When it comes to mobile app development, there are several key factors to consider. The first one is choosing the right platform as it will have a significant impact on the app's user base and functionality.",
+  "carousel_3_title": "Empower Your Business With Our Top-Notch Web Solutions",
+  "carousel_3_description": "Our team of experts is dedicated to providing top-notch support for all of our IT Solutions. From implementation to ongoing maintenance, we're here to help you every step of the way.",
+  "our_clients": "Our Esteemed Clients",
+
+  "get_in_touch": "Get in touch with us for more information",
+  "help_questions": "If you need help or have questions, we’re here for you",
+  "email_us": "Email Us",
+  "call_us": "Call Us",
+  "visit_us": "Visit Us",
+  "here_to_help": "We are here to help",
+  "reach_us_at": "Reach us at",
+  "office_address": "Our Office Address",
+
+  "contact_us_form_title": "Let's see how we can help you!",
+  "contact_us_form_subtitle": "Have any question? We’re here to assist.",
+  "form_label_name": "Name",
+  "form_label_subject": "Subject",
+  "form_label_email": "Email",
+  "form_label_message": "Message",
+  "form_button_submit": "Send Message",
+  "footer_heading": "Discover the ideal match with our tailor made solutions!",
+  "follow_us": "Follow us on",
+
+  "android_app_development": "Android App Development",
+  "ios_app_development": "iOS App Development",
+  "cross_platform_development": "Cross Platform Development",
+  "website_development": "Website Development",
+  "ui_ux_designing": "UI/UX Designing",
+  "code_build_reviews": "Code & Build Reviews",
+  "interactive_prototype": "Interactive Prototype",
+  "quick_links": "Quick Links",
+
+  "services_link": "Services",
+ 
+  "contact_phone": "+92 345 5118496",
+  "contact_address": "Street no 24 USA Liberty City",
+  "contact_website": "www.devsiomtechnologies.com",
+  "copyright_text": "© Copyright 2024",
+  "industries_we_serve": "Industries We Serve",
+  "retail_ecommerce": "Retail, Ecommerce",
+  "social_networking": "Social Networking",
+  "education_elearning": "Education & E-learning",
+  "real_estate": "Real Estate",
+  "healthcare_fitness": "Healthcare & Fitness",
+  "food_restaurant": "Food & Restaurant",
+  "logistics_distribution": "Logistics & Distribution",
+  "travel_hospitality": "Travel & Hospitality",
+  "mobile_applications": "Mobile Applications",
+  "gold_metal_detector_title": "Gold Metal Detector Finder",
+  "gold_metal_detector_subtitle": "Metal detector & gold detector app for Android",
+  "gold_metal_detector_description": "Track metal finder & gold detector app to propane detector to detect any metal objects. This free gold metal detector & Gold Tester application is your ultimate tool for uncovering hidden Gold treasures, gold tester & precious metals.",
+
+  "smart_tv_remote_title": "Smart TV Remote",
+  "smart_tv_remote_subtitle": "Smart TV Remote Control App",
+  "smart_tv_remote_description": "The best companion remote control app to make watching TV more enjoyable. You can easily and efficiently operate your TV by turning your smartphone into an efficient TV remote control.",
+
+  "charging_animation_title": "Charging Animation",
+  "charging_animation_subtitle": "Phone Charger Animation App",
+  "charging_animation_description": "Elevate your Android device's aesthetics with our captivating 3D wallpaper recharge battery wallpapers and color themes.",
+
+  "personal_diary_app_title": "Personal Diary App",
+  "personal_diary_app_subtitle": "Daily Journal Lock Diary Book",
+  "personal_diary_app_description": "Lock Diary Book is a password-protected daily journal app that lets you write down your feelings and ideas!",
+
+  "web_applications": "Web Applications",
+  "creative_garage_title": "Creative Garage",
+  "creative_garage_subtitle": "The Ultimate Multi-Purpose Application for Frequent IT Professionals",
+  "creative_garage_description": "We had the privilege of developing a dynamic and visually captivating website for Creative Garage Pvt Ltd, a leading provider of information technology solutions. Our creation features a comprehensive homepage with engaging transitions, an insightful about us section, an extensive overview of their services, an interactive contact us page, and a visually stunning portfolio. This website highlights Creative Garage’s expertise in MIS systems, ERP solutions, mobile application development, document security, UI/UX design, and real estate project consultancy, all presented through smooth navigation and captivating visual effects, showcasing our capability to deliver cutting-edge web solutions.",
+
+  "instarep_title": "InstaRep",
+  "instarep_subtitle": "Your One-Stop Solution for Professional Marketing Services",
+  "instarep_description": "Built with React, this app empowers users to access and manage top-tier marketing services to elevate their business presence. With InstaRep, users can effortlessly create, track, and optimize marketing campaigns to maximize their reach and impact by hiring highly trained marketing professionals.",
+
+  "fast_ids_title": "Fast IDs",
+  "fast_ids_subtitle": "The Ultimate Tool for Multi-Purpose Document Generation",
+  "fast_ids_description": "Fast IDs is the ultimate tool for generating multi-purpose fake documents with ease and efficiency. Whether you need templates for IDs, certificates, or other official-looking documents, Fast IDs has you covered. This web app is built using cutting-edge technologies such React.js, Three.js, JavaScript, Python, Django, and MySQL.",
+
+  "pranzo_title": "Pranzo",
+  "pranzo_subtitle": "Empowering Restaurants and Customers Alike",
+  "pranzo_description": "An ultimate multi-vendor food ordering platform. Restaurants can easily register and showcase their menus, while customers enjoy a seamless ordering experience with multi-recipient delivery options. Built with the robust MERN stack, Pranzo ensures reliability, scalability, and a diverse culinary experience. From browsing diverse menus to tracking your delivery in real-time, it offers all the features you expect from a top-tier food app. Enjoy a wide variety of cuisines, and exceptional customer support, all in one convenient platform.",
+
+  "logo_designs": "Logo Designs",
+  "startup_logo_title": "Startup Logo",
+  "startup_logo_subtitle": "Modern and Minimalistic Logo",
+  "startup_logo_description": "Crafted a modern and minimalistic logo for a startup in the tech industry.",
+
+  "ecommerce_logo_title": "E-commerce Brand Logo",
+  "ecommerce_logo_subtitle": "E-commerce Business Logo",
+  "ecommerce_logo_description": "Designed a logo for an e-commerce brand that reflects the company’s values and mission.",
+
+  "corporate_logo_title": "Corporate Logo",
+  "corporate_logo_subtitle": "Professional Corporate Logo",
+  "corporate_logo_description": "Created a professional logo for a corporate client in the finance sector.",
+
+  "devsiom_title": "Devsiom",
+  "contact_message": "Let's communicate and turn your dreams into reality!",
+  "contact_button": "Get In Touch",
+
+  "portfolio_title": "Our Finely Crafted Portfolio",
+  "portfolio_description": "In all these working years, we have served more than 100 clients with our services and expertise. All these projects we have crafted are listed below.",
+  "view_case_study": "View Case Study",
+
+  "process_we_follow_title": "Process We Follow",
+  "process_we_follow_description": "We, being a team of self-driven enthusiasts are determined to bring to you the ease and reliability in your business that we believe you deserve by providing you and your users the finest running web and mobile application experience.",
+  "learn_more": "Learn More",
+  "quality_assurance": "Quality Assurance",
+  "quality_assurance_description": "Comprehensive testing phase to ensure product quality and performance.",
+  "deployment": "Deployment",
+  "deployment_description": "Smooth deployment of the finalized product for users.",
+  "maintenance": "Maintenance",
+  "maintenance_description": "Ongoing maintenance and support to ensure product longevity.",
+  "requirements": "Requirements",
+  "requirements_description": "We follow the first and foremost priority of gathering requirements, resources and information to begin our project.",
+  "ui_ux_design": "UI/UX Design",
+  "ui_ux_design_description": "We create catchy and charming designs with the latest tools of designing to make it a best user-friendly experience.",
+  "prototype": "Prototype",
+  "prototype_description": "After designing, you will get your prototype, which will be sent ahead for the development process for the product.",
+  "development": "Development",
+  "development_description": "Development of mobile application/web/blockchain started using latest tools and technologies with transparency.",
+  "our_latest_products": "Our Latest Products",
+  "products_subheading": "We craft unique digital experiences. With more than ten years of knowledge and expertise, we design and code clean websites!",
+  "gold_metal_detector": "Gold Metal Detector",
+ 
+  "gold_metal_detector_details": "Track metal finder & gold detector app to propane detector to detect any metal objects. This free gold metal detector & Gold Tester application is your ultimate tool for uncovering hidden Gold treasures, gold tester & precious metals.",
+  "my_diary": "My Diary",
+  "my_diary_description": "Daily Journal Lock Diary Book",
+  "my_diary_details": "Diary online journal & travel journal is a secure, password-protected writing journal app that allows users to capture and explore their thoughts and emotions daily! This mood tracker diary notes app is available for free.",
+  "smart_tv_remote": "Smart TV Remote",
+
+  "smart_tv_remote_details": "The best companion remote control app to make watching TV more enjoyable. User can easily and efficiently operate your TV by turning your smartphone into an efficient TV remote control.",
+
+
+  "carousel_header": "What Our Customers Say",
+  "review_1_title": "What a gentle and nice team!",
+  "review_1_content": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur...",
+  "review_1_author": "Tangchiwing",
+  "review_1_location": "Hong Kong",
+  
+  "review_2_title": "Maximize Your Efficiency",
+  "review_2_content": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur...",
+  "review_2_author": "Tangchiwing",
+  "review_2_location": "Hong Kong",
+  
+  "review_3_title": "Empower Your Business",
+  "review_3_content": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur...",
+  "review_3_author": "Tangchiwing",
+  "review_3_location": "Hong Kong",
+  
+  "previous": "Previous",
+  "next": "Next",
+  "stats": {
+    "apps_developed": "Apps Developed",
+    "websites_designed": "Websites Designed",
+    "happy_clients": "Happy Clients",
+    "ai_iot_solutions": "AI & IoT Solutions"
+  },
+  "tech_and_business": {
+    "heading": "Technology & Business",
+    "paragraph": "Driven by a commitment to innovation, our software company leverages a diverse and dynamic tech stack, blending leading-edge technologies to craft solutions that redefine industry standards and exceed expectations."
+  },
+  "transformation": {
+    "heading": "Your Transformation Begins Here...",
+    "agile_teams": {
+      "title": "Agile Teams",
+      "description": "Extend your agile development teams with a high-performance partner. We help you accelerate your digital journey through faster software delivery to outpace the competition."
+    },
+    "digitalization": {
+      "title": "Digitalization",
+      "description": "Automate manual business processes and optimize the customer experience for better efficiency and engagement."
+    },
+    "innovation": {
+      "title": "Innovation",
+      "description": "We design transformational digital products and experiences that drive real business value and customer impact."
+    }
+  },
+  "whatWeDo": {
+    "header": "What We Do",
+    "description": "We have a refined process after we have taken up a project. We offer the platform from where the projects take shape through stages of planning, testing, and execution. Our specialized services also have:",
+    "androidDevelopment": {
+      "title": "ANDROID APP DEVELOPMENT",
+      "description": "Converting your innovative android application ideas to reality that boosts up your business."
+    },
+    "iosDevelopment": {
+      "title": "IOS APP DEVELOPMENT",
+      "description": "Experience quality work from professionals to develop, write, debug codes for IOS."
+    },
+    "crossPlatform": {
+      "title": "CROSS PLATFORM APP DEVELOPMENT",
+      "description": "Take advantage of our expertise in cross app development projects."
+    },
+    "wordpressDevelopment": {
+      "title": "WORDPRESS DEVELOPMENT",
+      "description": "Providing you with convenient UI/UX designing to ease a user's experience on digital products."
+    },
+    "uiuxDesign": {
+      "title": "UI/UX DESIGNING",
+      "description": "Get your WordPress projects' themes and plug ins created and customized quickly and efficiently."
+    }
+  },
+  "whoWeWorkWith": {
+    "header": "Who We Work With",
+    "description": "Devsiom Technologies is a leading custom software development company and digital partner, providing global enterprises and startups with high-quality software development services & solutions.",
+    "startUp": "Start Up Business",
+    "smallBusiness": "Small & Medium Business",
+    "enterprise": "Enterprise",
+    "agencies": "Agencies"
+  }
+
+}

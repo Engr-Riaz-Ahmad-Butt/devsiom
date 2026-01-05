@@ -1,0 +1,36 @@
+.industries {
+    margin-top: 80px;
+  }
+  
+  .industries-we-serve {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .industries-container {
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .semi-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+   
+  }
+  
+  .industry-image {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+  }
+  
+  .industry-text {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
