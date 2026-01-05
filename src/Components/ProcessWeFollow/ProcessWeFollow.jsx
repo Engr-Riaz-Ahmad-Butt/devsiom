@@ -1,5 +1,6 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
+import { Button } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./ProcessWeFollow.css";
 import qaImg from "../../Images/stats-1@2x.png";
@@ -15,8 +16,16 @@ const ProcessWeFollow = () => {
 
   return (
     <div className="parent-container">
-      <div className="container slider-with-text-container">
-        <div className="slider-container">
+      <div className="container process-container">
+        {/* Text section at the top */}
+        <div className="text-section">
+          <h2>{t('process_we_follow_title')}</h2>
+          <p>{t('process_we_follow_description')}</p>
+          <Button variant="warning">{t('learn_more')}</Button>
+        </div>
+        
+        {/* Cards section at the bottom */}
+        <div className="cards-section">
           <div className="cards-grid">
             <div className="slider-card">
               <img src={qaImg} alt={t('quality_assurance')} />
@@ -53,13 +62,6 @@ const ProcessWeFollow = () => {
               <b>{t('development')}</b>
               <p>{t('development_description')}</p>
             </div>
-          </div>
-        </div>
-        <div className="text-container">
-          <div className="right-side">
-            <h2>{t('process_we_follow_title')}</h2>
-            <p>{t('process_we_follow_description')}</p>
-            <Button variant="warning">{t('learn_more')}</Button>
           </div>
         </div>
       </div>
