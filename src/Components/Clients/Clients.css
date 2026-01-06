@@ -1,6 +1,9 @@
 .clients-container{
   margin-top: 80px;
+  max-width: 1600px !important;
+  padding: 0 20px;
 }
+
 .client-custom-card {
   width: 274px;
   height: 97px;
@@ -19,9 +22,34 @@
   object-fit: contain;
 }
 
+@media (max-width: 1400px) {
+  .clients-container {
+    max-width: 1200px !important;
+  }
+}
+
+@media (max-width: 1200px) {
+  .clients-container {
+    max-width: 960px !important;
+  }
+}
+
 @media (max-width: 992px) {
+  .clients-container {
+    max-width: 720px !important;
+    margin-top: 60px;
+    padding: 0 15px;
+  }
+  
   .client-custom-card {
     max-width: 200px; /* Adjust width for tablets */
+  }
+}
+
+@media (max-width: 768px) {
+  .clients-container {
+    max-width: 540px !important;
+    padding: 0 10px;
   }
 }
 
@@ -29,6 +57,7 @@
 @media (max-width: 576px) {
   .clients-container {
     margin-top: 40px; /* Reduce top margin for mobile */
+    padding: 0 10px;
   }
 
   .client-custom-card {

@@ -1,6 +1,5 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import { Button } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./ProcessWeFollow.css";
 import qaImg from "../../Images/stats-1@2x.png";
@@ -21,7 +20,6 @@ const ProcessWeFollow = () => {
         <div className="text-section">
           <h2>{t('process_we_follow_title')}</h2>
           <p>{t('process_we_follow_description')}</p>
-          <Button variant="warning">{t('learn_more')}</Button>
         </div>
         
         {/* Cards section at the bottom */}

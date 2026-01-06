@@ -22,7 +22,8 @@
   .carouselContainer {
     position: relative;
     width: 100%;
-    margin-top: 80px;
+    max-width: 1600px;
+    margin: 80px auto 0;
     min-height: 480px;
     border-radius: 20px;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
@@ -30,7 +31,61 @@
     justify-content: center;
     align-items: center;
     background: linear-gradient(135deg, rgba(3, 37, 75, 0.02), rgba(15, 114, 181, 0.02));
-    padding-bottom: 80px;
+    padding: 0 15px 80px;
+  }
+  
+  @media (max-width: 1400px) {
+    .carouselContainer {
+      max-width: 1200px;
+    }
+  }
+  
+  @media (max-width: 1200px) {
+    .carouselContainer {
+      max-width: 960px;
+    }
+    
+    .carouselHeader h1 {
+      font-size: 32px;
+    }
+  }
+  
+  @media (max-width: 992px) {
+    .carouselContainer {
+      max-width: 720px;
+      padding: 0 10px 60px;
+    }
+    
+    .carouselWrapper {
+      margin-top: 60px;
+      padding: 30px 15px;
+    }
+    
+    .carouselHeader h1 {
+      font-size: 28px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .carouselContainer {
+      max-width: 540px;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .carouselContainer {
+      padding: 0 10px 50px;
+    }
+    
+    .carouselWrapper {
+      margin-top: 40px;
+      padding: 20px 10px;
+    }
+    
+    .carouselHeader h1 {
+      font-size: 24px;
+      line-height: 30px;
+    }
   }
   
   /* Box with border and content */

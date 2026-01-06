@@ -1,3 +1,8 @@
+.navbar {
+  padding: 1rem 0;
+  overflow-x: hidden;
+}
+
 .navbar-nav .nav-link {
   transition: color 0.3s, background-color 0.3s;
   font-family: "Raleway";
@@ -6,6 +11,7 @@
   line-height: 21.13px;
   text-align: left;
   color: #000000;
+  white-space: nowrap;
 }
 
 .navbar-nav .nav-link:hover {
@@ -21,6 +27,9 @@
   font-size: 18px !important;
   font-weight: 700 !important;
   line-height: 21.13px;
+  padding: 0.375rem 0.75rem !important;
+  border-radius: 0.25rem !important;
+  white-space: nowrap;
 }
 
 .contact-us-btn:hover {
@@ -28,10 +37,6 @@
   color: white;
 }
 
-.contact-us-btn {
-  padding: 0.375rem 0.75rem;
-  border-radius: 0.25rem;
-}
 .dropdown-toggle {
   border: 1px solid #007bff;
   color: #007bff;
@@ -39,9 +44,116 @@
   font-size: 18px;
   font-weight: 700;
   line-height: 21.13px;
+  white-space: nowrap;
 }
 
 .dropdown-toggle:hover {
   background-color: #fa7226;
   color: #ffffff;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 992px) {
+  .navbar-nav {
+    flex-direction: column;
+    gap: 0.3rem;
+    padding: 0 0.5rem;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 15px;
+    padding: 0.4rem 0 !important;
+  }
+  
+  .contact-us-btn {
+    font-size: 15px !important;
+    width: 100%;
+    text-align: center;
+    padding: 0.4rem 0.5rem !important;
+  }
+  
+  .dropdown {
+    width: 100%;
+  }
+  
+  .dropdown-toggle {
+    font-size: 15px;
+    width: 100%;
+    text-align: left;
+    padding: 0.4rem 0.5rem !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    padding: 0.5rem 0;
+  }
+  
+  .navbar-brand img {
+    width: 120px !important;
+    height: auto !important;
+  }
+  
+  .navbar-nav {
+    gap: 0.2rem;
+    margin-top: 0.75rem;
+    padding: 0 0.3rem;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 13px;
+    padding: 0.35rem 0 !important;
+  }
+  
+  .contact-us-btn {
+    font-size: 13px !important;
+    padding: 0.35rem 0.5rem !important;
+  }
+  
+  .dropdown-toggle {
+    font-size: 13px;
+    padding: 0.35rem 0.5rem !important;
+  }
+  
+  .ms-3 {
+    margin-left: 0 !important;
+    margin-top: 0.3rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .navbar {
+    padding: 0.4rem 0;
+  }
+  
+  .navbar-brand img {
+    width: 100px !important;
+    height: auto !important;
+  }
+  
+  .navbar-nav {
+    gap: 0.2rem;
+    margin-top: 0.5rem;
+    padding: 0 0.2rem;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 12px;
+    padding: 0.3rem 0 !important;
+  }
+  
+  .contact-us-btn {
+    font-size: 12px !important;
+    padding: 0.3rem 0.4rem !important;
+  }
+  
+  .dropdown-toggle {
+    font-size: 12px;
+    padding: 0.3rem 0.4rem !important;
+  }
+  
+  .ms-3 {
+    margin-left: 0 !important;
+    margin-top: 0.2rem;
+  }
 }
