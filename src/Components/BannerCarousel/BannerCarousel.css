@@ -12,23 +12,18 @@
   height: 100%;
 }
 
-.hero-carousel .carousel-inner {
+.hero-carousel .slick-list,
+.hero-carousel .slick-track {
   width: 100%;
   height: 100%;
 }
 
-.carousel-item {
-  width: 100%;
+.slick-slide {
   height: 100%;
-  position: relative;
-  display: none !important;
-  opacity: 0;
-  transition: opacity 0.6s ease-in-out;
 }
 
-.carousel-item.active {
-  display: block !important;
-  opacity: 1;
+.slick-slide > div {
+  height: 100%;
 }
 
 /* Hero Item */
@@ -37,6 +32,9 @@
   width: 100%;
   height: 100%;
   overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* Video Background */
@@ -82,18 +80,6 @@
   max-width: 900px;
   margin: 0 auto;
   text-align: center;
-  animation: slideUp 1s ease-out;
-}
-
-@keyframes slideUp {
-  from {
-    opacity: 0;
-    transform: translateY(30px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
 }
 
 /* Title */
@@ -125,10 +111,14 @@
 
 /* Custom Dots */
 .hero-dots {
+  position: absolute;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 4;
   display: flex;
   justify-content: center;
   gap: 15px;
-  margin-top: 30px;
 }
 
 .hero-dot {
@@ -143,17 +133,19 @@
   margin: 0;
 }
 
+.hero-dot:hover {
+  background: #ffffff;
+  transform: scale(1.2);
+}
+
+/* Track active dot based on slick-current or manual tracking */
+.slick-active .hero-dot,
 .hero-dot.active {
   background: #FA7226;
   width: 16px;
   height: 16px;
   border-color: #FA7226;
   box-shadow: 0 0 10px rgba(250, 114, 38, 0.6);
-}
-
-.hero-dot:hover {
-  background: #ffffff;
-  transform: scale(1.2);
 }
 
 /* ===== RESPONSIVE BREAKPOINTS ===== */
@@ -336,17 +328,6 @@
   display: none;
 }
 
-/* Smooth Fade Transition */
-.carousel-fade .carousel-item {
-  opacity: 0;
-  transition-property: opacity;
-  transition-duration: 0.6s;
-}
-
-.carousel-fade .carousel-item.active {
-  opacity: 1;
-}
-
 /* Remove Bootstrap Carousel Default Styles */
 .carousel {
   position: relative;
@@ -361,10 +342,35 @@
 /* Accessibility */
 @media (prefers-reduced-motion: reduce) {
   .content-wrapper,
-  .carousel-item {
+  .slick-slide {
     animation: none;
     transition: none;
   }
+}
+
+/* Slick Carousel Overrides */
+.slick-slider {
+  width: 100%;
+  height: 100%;
+}
+
+.slick-slide {
+  opacity: 0;
+  transition: opacity 0.8s ease-in-out !important;
+}
+
+.slick-slide.slick-active {
+  opacity: 1;
+}
+
+.slick-dots {
+  display: none;
+}
+
+/* Hide default slick arrows */
+.slick-prev,
+.slick-next {
+  display: none;
 }
 
 
